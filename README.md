@@ -10,7 +10,7 @@
   </a>
 </p>
 
-![Banner](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
+![Banner]([https://miro.medium.com/v2/resize:fit:1400/format:webp/1*U3WRRwLx3zeDkHmIVGLJdw.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp2NHd0N25zazhoY2hpeXVwZ3BmZGRmdGxsMHJlcjhqcmQ2NTQ1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.webp))
 
 ---
 
