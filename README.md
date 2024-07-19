@@ -9,15 +9,19 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romit-guha-126367256/" alt="LinkedIn" />
   </a>
 </p>
-
-![Banner]([https://miro.medium.com/v2/resize:fit:1400/format:webp/1*U3WRRwLx3zeDkHmIVGLJdw.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp2NHd0N25zazhoY2hpeXVwZ3BmZGRmdGxsMHJlcjhqcmQ2NTQ1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.webp))
-
+<!-- <div align="center">
+![Banner](https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI)
+</div> -->
+<div align="center">
+<img src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI"/>
+</div>
 ---
 
 ### About Me 🚀
 - 🌱 I’m currently learning **Backend Development**
 - 💬 Ask me about **Web Development**
 - ⚡ Fun fact: **I love playing PC Games like Valorant**
+
 
 ### Skills and Tools 🛠
 <p align="left">
